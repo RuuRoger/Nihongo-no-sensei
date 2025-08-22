@@ -1,5 +1,7 @@
 <h1 align="center">🎌 Nihongo no sensei</h1>
 
+![Project Status](img/Demo_Nihongo_No_Sensei.png)
+
 This project is a mockup of a website simulating a Japanese language academy. It is part of an exercise inspired by a CSS course, but I decided to rework the project to make it more personal and original, adapting the design and structure to my own ideas.
 
 ## 🛠️ Technologies used
