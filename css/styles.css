@@ -1,0 +1,38 @@
+/* Fuentes */
+
+/* Estilso generales */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* cabecera  */
+#header {
+    min-width: 1024px;
+    width: 100%;
+    height: 700px;
+    border: 5px solid red;
+}
+
+#header a {
+    text-decoration: none;
+}
+
+#header #logo{
+    width: 770px;
+    margin: 0px auto;
+    padding-top: 150px;
+}
+
+#header h1{
+    text-align: center;
+    font-size: 55px;
+    /* color: salmon; */
+    font-weight: bold;
+}
+
+#header h1 a{
+    color: #D9818B;
+    
+}
+
